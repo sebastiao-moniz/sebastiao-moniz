@@ -2,7 +2,7 @@
 
 #### I’m a software developer, hard worker,<br>eager to learn, I enjoy learn new technologies and put it in practice.
 <h1>Here we Used this programming languages:</h1>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typecript/typecript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <h1>About me</h1>
